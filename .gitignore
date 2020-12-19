@@ -1,0 +1,14 @@
+bin/
+obj/
+
+.vs/
+*.csproj.user
+*.fsproj.user
+*wpftmp.csproj
+
+### VisualStudioCode ### Created by https://www.gitignore.io/api/visualstudiocode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
